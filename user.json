@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "johncena11.doe@example.com",
+      "name": "John cana",
+      "salary": 500000.0,
+      "department": "IT"
+    },
+    {
+      "email": "jane.snow11@example.com",
+      "name": "Jane snow",
+      "salary": 600000.0,
+      "department": "HR"
+    }
+  ]
+}
