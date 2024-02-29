@@ -1,0 +1,5 @@
+
+
+Create a .env file in your project's root directory.
+Add your database credentials to the .env file.
+then run npm i and node app.js command in terminal
